@@ -164,6 +164,3 @@ Built as a portfolio project to demonstrate Data Engineering and SQL skills.
 
 ---
 
-## 🙏 Credits
-
-Project inspired by the **"SQL Data Warehouse from Scratch"** tutorial by [Data with Baraa](https://www.youtube.com/@DataWithBaraa) on YouTube.
