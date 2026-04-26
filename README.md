@@ -157,8 +157,8 @@ sql-data-warehouse-project/
 
 ## 👤 Author
 
-**Shravani R**
-Fresher — Computer Science
+**Shravani R** - 
+Fresher - Computer Science - 
 Built as a portfolio project to demonstrate Data Engineering and SQL skills.
 
 ---
