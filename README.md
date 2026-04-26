@@ -25,7 +25,7 @@ This project demonstrates how real-world data warehouses are built — from raw 
 
 ## 🔄 Data Flow Diagram
 
-![Data Flow Diagram](data_flow.png)
+![Data Flow Diagram](docs/data_flow.png)
 
 Data flows from two source systems (CRM and ERP) through three transformation layers:
 
@@ -37,7 +37,7 @@ Data flows from two source systems (CRM and ERP) through three transformation la
 
 ## ⭐ Data Model — Star Schema
 
-![Star Schema](star_schema.png)
+![Star Schema](docs/star_schema.png)
 
 The Gold layer follows a **Star Schema** design:
 
